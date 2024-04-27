@@ -1,7 +1,7 @@
 
 
 **Description:**
-Theis App is an enhanced version of the MovieViewer application designed to retrieve and display movie information from "TheMovieDB" API. This project is part of a practical assignment for the Mobile Applications Development course. The app utilizes coroutines, ViewModel, and Room to efficiently manage data retrieval, storage, and display.
+This App is an enhanced version of the MovieViewer application designed to retrieve and display movie information from "TheMovieDB" API. This project is part of a practical assignment for the Mobile Applications Development course. The app utilizes coroutines, ViewModel, and Room to efficiently manage data retrieval, storage, and display.
 
 **Key Features:**
 1. **Data Retrieval:** Utilizes coroutines to perform HTTP requests to "TheMovieDB" API and retrieve movie information in JSON format.
